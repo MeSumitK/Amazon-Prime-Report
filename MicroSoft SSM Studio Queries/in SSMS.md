@@ -1,1 +1,1 @@
-## Wrote SQL queries in SQL Server Management Studio to import the Excel data in SQL
+## Wrote SQL queries in MicroSoft SQL Server Management Studio to import the CSV data in SQL
